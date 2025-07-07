@@ -39,7 +39,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (version 18.x or higher)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/) 
 
 ### Installation & Setup
 
@@ -47,8 +47,8 @@ Follow these instructions to get a copy of the project up and running on your lo
     Replace `your-github-username` with your actual GitHub username.
 
     ```sh
-    git clone https://github.com/your-github-username/docubrain.git
-    cd docubrain
+    git clone https://github.com/ambujpandey1/DocuBrain.git
+    cd DocuBrain
     ```
 
 2.  **Install dependencies**
@@ -143,6 +143,6 @@ Here is an overview of the key directories and files in the project:
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
+Ambuj Pandey - [@ambujpandey1](https://www.linkedin.com/in/ambujpandey1/) - ambujp863@gmail.com
 
-Project Link: [https://github.com/your-github-username/docubrain](https://github.com/your-github-username/docubrain)
+Project Link: [https://github.com/ambujpandey1/DocuBrain.git](https://github.com/ambujpandey1/DocuBrain.git)
