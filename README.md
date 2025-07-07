@@ -4,6 +4,20 @@ DocuBrain is a modern web application built with Next.js and powered by Google's
 
 
 ## Project Link: [https://docu-brain.vercel.app/](https://docu-brain.vercel.app/)
+
+## 🖼️ Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/ambujpandey1/DocuBrain/blob/main/ProjectScreenShot/scr1.png" width="500"/></td>
+    <td><img src="https://github.com/ambujpandey1/DocuBrain/blob/main/ProjectScreenShot/scr2.png" width="500"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ambujpandey1/DocuBrain/blob/main/ProjectScreenShot/scr3.png" width="500"/></td>
+    <td><img src="https://github.com/ambujpandey1/DocuBrain/blob/main/ProjectScreenShot/scr4.png" width="500"/></td>
+  </tr>
+</table>
+
     
 ## Table of Contents
 
