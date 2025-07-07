@@ -2,6 +2,9 @@
 
 DocuBrain is a modern web application built with Next.js and powered by Google's Gemini AI through Genkit. It allows users to upload documents (PDFs or text files) and interact with them in powerful ways. Get instant summaries, ask specific questions about the content, and test your knowledge with AI-generated challenges.
 
+
+## Project Link: [https://docu-brain.vercel.app/](https://docu-brain.vercel.app/)
+    
 ## Table of Contents
 
 - [Features](#features)
@@ -145,4 +148,4 @@ Here is an overview of the key directories and files in the project:
 
 Ambuj Pandey - [@ambujpandey1](https://www.linkedin.com/in/ambujpandey1/) - ambujp863@gmail.com
 
-Project Link: [https://github.com/ambujpandey1/DocuBrain.git](https://github.com/ambujpandey1/DocuBrain.git)
+Project Link: [https://docu-brain.vercel.app/](https://docu-brain.vercel.app/)
