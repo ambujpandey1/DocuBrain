@@ -170,7 +170,7 @@ export default function LandingPage() {
         <p className="flex items-center">
           Developed by 
           <span className="text-red-500 mx-1 animate-pulse">❤️</span> 
-          by Ambuj Pandey
+          Ambuj Pandey
         </p>
       </div>
     </div>
