@@ -168,7 +168,7 @@ export default function LandingPage() {
           © {new Date().getFullYear()} DocuBrain. All rights reserved.
         </p>
         <p className="flex items-center">
-          Made with 
+          Developed by 
           <span className="text-red-500 mx-1 animate-pulse">❤️</span> 
           by Ambuj Pandey
         </p>
